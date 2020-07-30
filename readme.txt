@@ -2,7 +2,7 @@
        usage
 #######################
 
-gcc "firmware-file-name.img"  
+gcc wndr3800sw.c "firmware-file-name.img"  
 ---keep the quotes---
 
 *****IMPORTANT*****
